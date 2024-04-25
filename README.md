@@ -5,9 +5,6 @@
     <h1 align="center">2048-DOCKER</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/Aritra203/2048-docker?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Aritra203/2048-docker?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Aritra203/2048-docker?style=flat&color=0080ff" alt="repo-top-language">
